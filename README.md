@@ -2,7 +2,7 @@
 Im this lab I performed a live analysis of a phishing email posing as the company Paypal. The body of the email states that the recipient has won a $250 Paypal Pre-Paid card. However, there are several indicators that suggest the email may be a phishing attempt. At the end of the lab you will find a google doc containing the complete report.
 
 ## 🎥 Video Tutorial Walkthrough of Phishing Analysis
-[![Watch the video](youtube video url here)
+[![Watch the video](https://youtu.be/FdsJtNAgTmo)
 
 ## 🔧 Tools and Frameworks Used In This Lab
 - VirusTotal
