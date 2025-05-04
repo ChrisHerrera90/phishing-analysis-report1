@@ -1,5 +1,5 @@
 # Phishing Analysis Investigation and Report: Credential Harvester
-Im this lab I performed a live analysis of a phishing email posing as the company Paypal. The body of the email states that the recipient has won a $250 Paypal Pre-Paid card. However, there are several indicators that suggest the email may be a phishing attempt. At the end of the lab you will find a google doc containing the complete report.
+In this lab I performed a live analysis of a phishing email posing as the company Paypal. The body of the email states that the recipient has won a $250 Paypal Pre-Paid card. However, there are several indicators that suggest the email may be a phishing attempt. At the end of the lab you will find a google doc containing the complete report.
 
 ## 🎥 Video Tutorial Walkthrough of Phishing Analysis
 [![Watch the video](https://img.youtube.com/vi/FdsJtNAgTmo/0.jpg)](https://youtu.be/FdsJtNAgTmo)
